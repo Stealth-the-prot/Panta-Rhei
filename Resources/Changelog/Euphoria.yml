@@ -2494,3 +2494,11 @@ Entries:
         little more in single-shot.
   id: 312
   time: '2026-05-01T04:56:22.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Add some alternative pads to Senior Researcher, Roboticist, Research
+        Assistant and Scientist that use the old job names from pre-rebase.
+  id: 313
+  time: '2026-05-01T05:00:04.0000000+00:00'
