@@ -2883,3 +2883,9 @@ Entries:
         Vending machine.
   id: 359
   time: '2026-05-16T05:47:07.0000000+00:00'
+- author: Tarazicon
+  changes:
+    - type: Tweak
+      message: Weapon melee animations have been changed to look nicer.
+  id: 360
+  time: '2026-05-16T05:49:02.0000000+00:00'
