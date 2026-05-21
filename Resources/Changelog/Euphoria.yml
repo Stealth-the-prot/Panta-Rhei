@@ -3004,3 +3004,9 @@ Entries:
         some people. I said fuck that and found a fix.
   id: 373
   time: '2026-05-21T14:45:54.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: Increased the max amount of prizes in a Space Villain Arcade Machine.
+  id: 374
+  time: '2026-05-21T14:49:11.0000000+00:00'
