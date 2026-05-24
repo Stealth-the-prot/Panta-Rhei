@@ -3099,3 +3099,9 @@ Entries:
       message: Added Crucifixes, tallit and scapular. Again
   id: 386
   time: '2026-05-24T10:45:47.0000000+00:00'
+- author: deltaSpawn0040
+  changes:
+    - type: Tweak
+      message: Medfabs can now make gas analyzers
+  id: 387
+  time: '2026-05-24T10:46:28.0000000+00:00'
