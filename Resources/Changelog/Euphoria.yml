@@ -3093,3 +3093,9 @@ Entries:
       message: Changed cost of Synthetic trait from +1 to 0.
   id: 385
   time: '2026-05-24T10:45:05.0000000+00:00'
+- author: JFerrix
+  changes:
+    - type: Add
+      message: Added Crucifixes, tallit and scapular. Again
+  id: 386
+  time: '2026-05-24T10:45:47.0000000+00:00'
