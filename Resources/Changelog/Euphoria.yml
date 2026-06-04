@@ -3367,3 +3367,9 @@ Entries:
         flat 100. Same result in most cases.
   id: 422
   time: '2026-06-04T12:05:47.0000000+00:00'
+- author: sprkl
+  changes:
+    - type: Add
+      message: Added an accent for rolling your 'r's.
+  id: 423
+  time: '2026-06-04T12:06:10.0000000+00:00'
