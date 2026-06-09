@@ -3466,3 +3466,16 @@ Entries:
       message: The Bepis vending machine is now animated.
   id: 435
   time: '2026-06-09T11:56:44.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Add
+      message: >-
+        Changed how languages are displayed in chat. There's now a small icon
+        next to the speaker's name. You can hover over it to see which language
+        the message is spoken in and whether you understand it.
+    - type: Add
+      message: >-
+        Added a new accessibility toggle that shows full language names next to
+        their icons in chat, similarly to how it was on pre-rebase floof.
+  id: 436
+  time: '2026-06-09T11:57:48.0000000+00:00'
