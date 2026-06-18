@@ -3684,3 +3684,9 @@ Entries:
         as a temporary measure until it is mapped.
   id: 459
   time: '2026-06-18T10:09:30.0000000+00:00'
+- author: eddiegamer40
+  changes:
+    - type: Add
+      message: Screamazine, a chemical that makes you scream
+  id: 460
+  time: '2026-06-18T10:10:54.0000000+00:00'
