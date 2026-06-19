@@ -3726,3 +3726,11 @@ Entries:
         bird sounds.
   id: 465
   time: '2026-06-19T09:20:31.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: >-
+        Some small fixes and QoL changes to Amber & Meta, see the PR for
+        details.
+  id: 466
+  time: '2026-06-19T09:26:33.0000000+00:00'
