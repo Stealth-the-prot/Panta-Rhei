@@ -4032,3 +4032,13 @@ Entries:
         the appraisal module.
   id: 503
   time: '2026-07-01T07:40:31.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Added Viper and Viper (w/ wood grippy) to Security Loadout.
+    - type: Add
+      message: >-
+        Added Security only Viper (it fires slower for regulation/balance
+        purposes).
+  id: 504
+  time: '2026-07-01T13:05:24.0000000+00:00'
