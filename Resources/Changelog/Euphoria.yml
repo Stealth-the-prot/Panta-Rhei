@@ -4378,3 +4378,11 @@ Entries:
       message: Pressing a fire alarm will make fire locks activate again.
   id: 542
   time: '2026-07-14T10:58:24.0000000+00:00'
+- author: sprkl
+  changes:
+    - type: Add
+      message: Added religious head and neck wear.
+    - type: Fix
+      message: Roles missing head and/or neck options have them now.
+  id: 543
+  time: '2026-07-14T10:59:26.0000000+00:00'
